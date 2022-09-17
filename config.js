@@ -1,10 +1,8 @@
 module.exports = {
   // 可选择的框架
-  framwork:['express', 'koa', 'egg'],
+  framwork:['uview1-hbx'],
   // 框架对应的下载地址
   foramworkUrl:{
-    express:'git@gitee.com:beiyaoyaoyao/express-template.git',
-    koa:'git@gitee.com:beiyaoyaoyao/koa-template.git',
-    egg:'git@gitee.com:beiyaoyaoyao/egg-template.git'
+    'uview1-hbx':'git@github.com:ChenLiuPng/uview1-hbx.git'
   }
 }
